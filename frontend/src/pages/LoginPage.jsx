@@ -304,7 +304,7 @@ const LoginPage = () => {
           {/* Company Title */}
           <div className="company-header">
             <h1 className="company-name">Kluger DART</h1>
-            <p className="company-tagline">Design • Automation • Telemetry • Robotics</p>
+            <p className="company-tagline">Design • Automation • Robotics • Telemetry</p>
           </div>
 
           {/* Login Form */}
